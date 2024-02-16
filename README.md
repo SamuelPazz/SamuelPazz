@@ -1,16 +1,23 @@
-### Hi there 👋
+## Oii, eu sou o Samuel Paz, estudante de programação
+
+-📖 Estudante de Análise e desenvolvimento de sistemas na SPTECH
+
+-💻 Futuro Desenvolvedor back-end 
 
 
-**SamuelPazz/SamuelPazz** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<div>
+  <a href="https://github.com/SamuelPazz/edit/main/README.md">
+    <img height=180 src="https://github-readme-stats.vercel.app/api?username=SamuelPazz&show_icons=true&theme=blue_navy"/>
+    <img height=180  src="https://github-readme-stats.vercel.app/api/top-langs?username=SamuelPazz&layout=compact&langs_count=8&card_width=320&theme=blue_navy" />
+  </a>
+</div>
 
-Here are some ideas to get you started:
+<div>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+  
+</div>
 
+
+
+         
+          
