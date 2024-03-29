@@ -6,7 +6,7 @@
 
 -🏎️ Gosto de carros 
 
-=🎧 Escuto todo tipo de música
+-🎧 Escuto todo tipo de música
 
 <div>
   <a href="https://github.com/SamuelPazz/edit/main/README.md">
