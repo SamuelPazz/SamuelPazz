@@ -1,16 +1,26 @@
-## Oi, eu sou o Samuel, estudante de programação
+<div align="center">
+  
+# Olá! , eu sou o Samuel👋
+### Atualmente sou estudante de ADS na SPTech 1/5
+<div/>
+  
+<div align="center">
+<img src="https://media.giphy.com/media/6ib6KPmkeAjDTxMxij/giphy.gif" alt="GIF" width="300px"/>
 
--📖 Estudante de Análise e desenvolvimento de sistemas na SPTECH
+## -💻 Técnologias que tive contato 
 
--💻 Futuro Desenvolvedor back-end 
-
--🏎️ Gosto de carros 
-
--🎧 Escuto todo tipo de música
+![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) 
+![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) 
+![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) 
+![Chart.js](https://img.shields.io/badge/chart.js-F5788D.svg?style=for-the-badge&logo=chart.js&logoColor=white) 
+![MySQL](https://img.shields.io/badge/mysql-%2300000f.svg?style=for-the-badge&logo=mysql&logoColor=white) 
+![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white) 
 
 <div>
   <a href="https://github.com/SamuelPazz/edit/main/README.md">
-    <img height=180 src="https://github-readme-stats.vercel.app/api?username=SamuelPazz&show_icons=true&theme=blue_navy"/><br><br>
+    <img height=180 src="https://github-readme-streak-stats.herokuapp.com/?user=SamuelPazz&theme=blue_navy&hide_border=false"/><br><br>
     <img height=180  src="https://github-readme-stats.vercel.app/api/top-langs?username=SamuelPazz&layout=compact&langs_count=8&card_width=320&theme=blue_navy"/>
   </a>
 </div>
+
+
