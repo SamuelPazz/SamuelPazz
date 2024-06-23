@@ -6,7 +6,8 @@
   
 <div align="center">
 <img src="https://media.giphy.com/media/2IudUHdI075HL02Pkk/giphy.gif" alt="GIF" width="500px"/><br>
-  
+
+<div>
 ## -💻 Técnologias que tive contato 
 
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) 
@@ -16,6 +17,7 @@
 ![Chart.js](https://img.shields.io/badge/chart.js-F5788D.svg?style=for-the-badge&logo=chart.js&logoColor=white) 
 ![MySQL](https://img.shields.io/badge/mysql-%2300000f.svg?style=for-the-badge&logo=mysql&logoColor=white) 
 ![Git](https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white)
+</div>
 
 <div>
   <a href="https://github.com/SamuelPazz/edit/main/README.md">
