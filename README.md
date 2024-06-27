@@ -1,7 +1,7 @@
 <div align="center">
   
 # Olá! , eu sou o Samuel👋
-### Aluno de ADS SPTech 2/5
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/samuelppaz/)
 <div/>
   
 <div align="center">
@@ -9,7 +9,7 @@
 
 <div>
 
-  ## -💻 Técnologias que tive contato 
+  ## -💻 Técnologias que já tive contato 
 
 
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) 
