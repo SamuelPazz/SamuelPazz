@@ -27,6 +27,8 @@
   
   <a href="https://github.com/SamuelPazz/edit/main/README.md">
     <img height=180 src="https://github-readme-streak-stats.herokuapp.com/?user=SamuelPazz&theme=blue_navy&hide_border=false"/><br><br>
+    <img height=180 src="https://github-readme-stats.vercel.app/api/top-langs?username=SamuelPazz&layout=compact&langs_count=8&card_width=320&theme=blue_navy"/>
+
   </a>
   
 </div>
