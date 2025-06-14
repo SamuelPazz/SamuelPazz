@@ -18,11 +18,9 @@
 
 ---
 
-<div>
-  <a href="https://github.com/SamuelPazz">
-    <img height=180 src="https://github-readme-streak-stats.herokuapp.com/?user=SamuelPazz&theme=blue_navy&card_width=350&hide_border=false"/>
-    <img height=180 src="https://github-readme-stats.vercel.app/api/top-langs?username=SamuelPazz&layout=compact&langs_count=8&card_width=350&theme=blue_navy"/>
-  </a>
+<div align="center"><br><br>
+
+  <img width="47%" height="200px" src="https://github-readme-stats.vercel.app/api/top-langs?username=SamuelPazz&layout=compact&langs_count=8&theme=blue_navy"/>
+  <img width="45%" height="200px" src="https://github-readme-streak-stats.herokuapp.com/?user=SamuelPazz&theme=blue_navy&hide_border=false"/>
+      
 </div>
-
-
