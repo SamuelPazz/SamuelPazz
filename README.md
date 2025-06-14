@@ -18,9 +18,8 @@
 
 ---
 
-<div align="center"><br><br>
-
+<div align="center" style="display: flex; justify-content: center; gap: 20px;">
   <img width="47%" height="200px" src="https://github-readme-stats.vercel.app/api/top-langs?username=SamuelPazz&layout=compact&langs_count=8&theme=blue_navy"/>
   <img width="45%" height="200px" src="https://github-readme-streak-stats.herokuapp.com/?user=SamuelPazz&theme=blue_navy&hide_border=false"/>
-      
 </div>
+
